@@ -1,0 +1,13 @@
+{
+  "qqbot": {
+    "admin": 123456
+  },
+  "chatgpt": {
+    "api_key": "YOUR_API_KEY",
+    "proxy": "socks5h://127.0.0.1:port"
+  },
+  "scenario": {
+    "api_key": "YOUR_API_KEY",
+    "api_secret": "YOUR_API_SECRET"
+  }
+}
